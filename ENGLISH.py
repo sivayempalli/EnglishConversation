@@ -1,3 +1,5 @@
+//I copied the code from another github 
+
 #defining rules
 def get_rules():
     rules = {"Numbers":{
